@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: This is the personal homepage of Cedric Amon
+description: You will find links to Cedric's past and current projects, publications and other areas of interest.
+plugins:
+- jemoji
